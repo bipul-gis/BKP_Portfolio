@@ -1,0 +1,7 @@
+{
+  "name": "Bipul Kumar Paul - GIS Analyst & Meteorologist Portfolio",
+  "description": "Professional portfolio of Bipul Kumar Paul, featuring expertise in GIS, Remote Sensing, and Meteorology.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
