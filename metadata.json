@@ -3,5 +3,8 @@
   "description": "Professional portfolio of Bipul Kumar Paul, featuring expertise in GIS, Remote Sensing, and Meteorology.",
   "requestFramePermissions": [
     "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
   ]
 }
